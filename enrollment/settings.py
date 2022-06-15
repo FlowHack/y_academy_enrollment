@@ -13,9 +13,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'rest_framework',
     'mega_market',
     'api',
+=======
+    'mega_market',
+    'rest_framework',
+>>>>>>> aa5c1e7f8a54dd75a843e262474e3c768579e401
 ]
 
 MIDDLEWARE = [

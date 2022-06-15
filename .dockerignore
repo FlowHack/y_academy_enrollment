@@ -1,0 +1,7 @@
+unit_test.py
+venv/
+.gitignore
+setup.cfg
+Dockerfile
+docker-compose.yaml
+static/
